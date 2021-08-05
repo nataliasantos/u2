@@ -24,7 +24,7 @@ Este projeto foi testado no navegador Chrome 92, tanto na versão desktop quanto
 * Para alterar o html vá para o arquivo index.html.
 * Para alterar o estilo vá para o arquivo style.css.
 
-Sugestões, bugs e outras melhorias? Fique à vontade [para abrir uma issue](/issues).
+Sugestões, bugs e outras melhorias? Fique à vontade [para abrir uma issue](https://github.com/nataliasantos/u2/issues).
 
 Visualize esse projeto no GitHub Pages: https://nataliasantos.github.io/u2
 
