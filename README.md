@@ -36,5 +36,3 @@ Caixa azul claro: #22bfe2
 Azul médio do final da página: 
 Section footer: #123e4e
 
-https://www.figma.com/file/nZG3A2XlWG9vhtaLYVKFLT/Miss%C3%A3o-Paz-institucional?node-id=0%3A1
-link2: https://www.figma.com/proto/nZG3A2XlWG9vhtaLYVKFLT/Miss%C3%A3o-Paz-institucional?node-id=0%3A1&scaling=min-zoom&page-id=0%3A1
