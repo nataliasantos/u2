@@ -27,23 +27,3 @@ Este projeto foi testado no navegador Chrome 92, tanto na versão desktop quanto
 Sugestões, bugs e outras melhorias? Fique à vontade [para abrir uma issue](https://github.com/nataliasantos/u2/issues).
 
 Visualize esse projeto no GitHub Pages: https://nataliasantos.github.io/u2
-
-
-
-
-
-Cores:
-Azul escuro: #123e4e	
-Laranja: #f99646
-Azul mais claro: #40b7e4
-Azul quase escuro: #2a5160
-Azul claro da risca: #71c5ee
-Azul escuro da risca: #1c6d93
-Caixa vermelha ODS: #e5243b
-Caixa verde ODS: #4c9f38
-Caixa laranja ODS: #ff3a21
-Caixa amarelo dourado ODS: #fcc30b
-Caixa azul claro: #22bfe2
-Azul médio do final da página: 
-Section footer: #123e4e
-
